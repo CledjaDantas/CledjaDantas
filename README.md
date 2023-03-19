@@ -31,4 +31,3 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cledjafff)
 
 
-![Snake animation](https://github.com/cledjadantas/cledjadantas/blod/output/github-contribution-grid-snake.svg)
