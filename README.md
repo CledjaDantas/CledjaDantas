@@ -23,6 +23,7 @@
 
 
 </div>
+<hr>
 
 ### Let's get connected:
 
